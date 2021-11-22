@@ -12,8 +12,7 @@
     },
     {
       "name": "examples",
-      "description": "Examples",
-      "isExamples": true
+      "description": "Examples"
     },
     {
       "name": "format",
