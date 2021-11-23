@@ -1,9 +1,13 @@
-{
+﻿{
   "name": "at.fhir.ig.template",
   "type": "fhir.template",
   "license": "CC0-1.0",
   "description": "Austrian FHIR® IG Base Template - for use by anyone in the Austrian domain",
   "author": "http://fhir.hl7.at/",
   "canonical": "http://build.fhir.org/ig/HL7Austria/at-fhir-ig-template/",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "base": "fhir.base.template",
+  "dependencies": {
+    "fhir.base.template": "current"
+  }
 }
