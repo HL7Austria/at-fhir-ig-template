@@ -10,6 +10,14 @@
       "path": "http://build.fhir.org/ig/HL7Austria/at-fhir-ig-template/",
       "status": "ci-build",
       "current": true
+    },
+    {
+      "version": "0.0.1",
+      "desc": "First release",
+      "path": "http://fhir.org/templates/hl7.at.fhir.template/0.0.1",
+      "status": "release",
+      "sequence": "Publications",
+      "date": "2022-08-31"
     }
   ]
 }
