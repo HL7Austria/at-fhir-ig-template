@@ -1,8 +1,8 @@
 {
-  "package-id": "at.fhir.ig.template",
+  "package-id": "hl7.at.fhir.template",
   "title": "Austrian FHIR® IG Base Template",
-  "introduction": "Austrian FHIR® IG Base Template",
-  "canonical": "http://build.fhir.org/ig/HL7Austria/at-fhir-ig-template",
+  "introduction": "For use by anyone in the Austrian domain",
+  "canonical": "http://fhir.org/templates/hl7.at.fhir.template",
   "list": [
     {
       "version": "current",
