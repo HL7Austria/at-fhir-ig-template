@@ -19,3 +19,4 @@ template = at.fhir.ig.template#current
 * [Austrian FHIR® Implementation Guides](https://fhir.hl7.at/)
 
 The publishing is done fully automatically after every successful merge to master. 
+ 
