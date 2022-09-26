@@ -10,7 +10,7 @@ This repository serves to host the HL7® FHIR® Technical Comitee developed FHIR
 
 Refer to the IG template in your implementation guide (ig.ini) with:
 ```
-template = at.fhir.ig.template#current
+template = hl7.at.fhir.template#current
 ```
 
 * Provide [packages-list.json](https://wiki.hl7.org/index.php?title=FHIR_IG_PackageList_doco) in input/pagecontent directory
@@ -18,5 +18,4 @@ template = at.fhir.ig.template#current
 ## Examples
 * [Austrian FHIR® Implementation Guides](https://fhir.hl7.at/)
 
-The publishing is done fully automatically after every successful merge to master. 
- 
+The publishing is done fully automatically after every successful merge to master.
