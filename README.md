@@ -1,6 +1,6 @@
 # HL7® Austria - IG Template 
 
-This repository serves to host the HL7® FHIR® Technical Comitee developed FHIR® IG Template for the Austrian domain.
+This repository serves to host the FHIR® IG Template developed by the HL7® Technical Comitee for FHIR® for the Austrian domain.
 
 ## Features
 * Custom logo
