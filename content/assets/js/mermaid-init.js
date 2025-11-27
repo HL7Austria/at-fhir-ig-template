@@ -10,5 +10,5 @@ document.addEventListener('DOMContentLoaded', function() {
   });
   // https://chat.fhir.org/#narrow/channel/179252-IG-creation/topic/Mermaid.20support/near/527103652
   // https://docs.mermaidchart.com/mermaid-oss/config/usage.html#securitylevel
-  mermaid.initialize({ securityLevel: 'loose' });
+  mermaid.initialize({ securityLevel: 'antiscript' });
 });
